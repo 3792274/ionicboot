@@ -1,6 +1,6 @@
 # ionicboot
 
-<img src="logos/ionic.svg" width="60" height="60" alt="Ionic"/>
+![image](https://github.com/xujingbao/ionicboot/blob/master/logos/ionic.svg)
 <img src="logos/angular-icon.svg" width="60" height="60" alt="angular"/>
 <img src="logos/html.svg" width="60" height="60" alt="html-5"/>
 <img src="logos/css.svg" width="60" height="60" alt="css"/>
