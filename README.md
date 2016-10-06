@@ -1,11 +1,15 @@
 # ionicboot
 
 #### 前端
+
 <a href="http://ionicframework.com/">
 	<img src="http://svgporn.com/logos/ionic.svg" width="60" height="60"/>
 </a>
 <a href="https://angularjs.org/">
 	<img src="http://svgporn.com/logos/angular-icon.svg" width="60" height="60"/>
+</a>
+<a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">
+	<img src="http://svgporn.com/logos/javascript.svg" width="60" height="60"/>
 </a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML">
 	<img src="http://svgporn.com/logos/html-5.svg" width="60" height="60"/>
