@@ -1,4 +1,4 @@
-logos# ionicboot
+# ionicboot
 
 <img src="logos/ionic.svg" width="60" height="60" alt="Ionic"/>
 <img src="logos/angular-icon.svg" width="60" height="60" alt="angular"/>
