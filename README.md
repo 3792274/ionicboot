@@ -79,16 +79,16 @@
 AngularJS: 1.5.8  
 Spring Boot: 1.4.9  
 Grails: 3.1.9  
-MySQL: 5.6
-Gradle: 2.14
+MySQL: 5.6  
+Gradle: 2.14  
 Cordova CLI: 6.3.1  
 Ionic CLI Version: 2.0.0  
 Ionic App Lib Version: 2.0.0  
 ios-deploy version: 1.9.0  
 ios-sim version: 5.0.8  
 Node Version: v6.3.1  
-intellij-idea: 2016.2.4
-Xcode version: Xcode 8.1
+Intellij-idea: 2016.2.4  
+Xcode version: Xcode 8.1  
 OS: Mac OS X El Capitan  
 
 #### 其他
