@@ -1,6 +1,5 @@
 # ionicboot
 
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="60" height="60" alt="npm"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="60" height="60" alt="Ionic"/>
 <img src="https://jhipster.github.io/img/svg/angular.svg" width="60" height="60" alt="angular"/>
