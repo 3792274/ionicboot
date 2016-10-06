@@ -27,19 +27,21 @@
 <a href="https://www.mysql.com/">
 	<img src="http://svgporn.com/logos/mysql.svg" width="60" height="60" alt="mysql"/>
 </a>
+
+#### 构建工具
 <a href="https://gradle.org/">
 	<img src="http://svgporn.com/logos/gradle.svg" width="60" height="60" alt="gradle-new"/>
 </a>
-
-#### 构建工具
 <a href="http://gruntjs.com/">
 	<img src="http://svgporn.com/logos/grunt.svg" width="60" height="60" alt="gulp"/>
 </a>
-<a href="https://bower.io/">
-	<img src="http://svgporn.com/logos/bower.svg" width="60" height="60" alt="npm"/>
-</a>
 <a href="http://gulpjs.com/">
 	<img src="http://svgporn.com/logos/gulp.svg" width="60" height="60" alt="gulp"/>
+</a>
+
+#### 包管理
+<a href="https://bower.io/">
+	<img src="http://svgporn.com/logos/bower.svg" width="60" height="60" alt="npm"/>
 </a>
 <a href="https://www.npmjs.com/">
 	<img src="http://svgporn.com/logos/npm.svg" width="60" height="60" alt="npm"/>
@@ -63,6 +65,6 @@
 </a>
 
 #### 其他
-[material-theme](http://equinsuocha.io/material-theme/)
+[Material Theme](http://equinsuocha.io/material-theme/)
 
 [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
