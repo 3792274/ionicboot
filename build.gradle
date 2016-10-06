@@ -1,0 +1,22 @@
+allprojects {
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+    apply plugin: 'maven'
+	
+	group = 'com.lemon'
+    
+    repositories {
+        maven{
+			url "http://182.92.103.16/nexus/content/groups/public"
+			mavenCentral()
+	    }
+    }
+    
+    tasks.withType(JavaCompile) {
+	    options.encoding = "UTF-8"
+	}
+	
+	configurations.all {
+	    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+	}
+}
